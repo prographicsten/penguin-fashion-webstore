@@ -1,0 +1,46 @@
+/* using google fonts Bebas Neue + Montserrat + Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+.bebas_neue {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* custom css start */
+/* .nav_section_area {
+    display: flex;
+} */
+
+
+
+
+
+
+
+
+@media screen  and (max-width: 576px) {
+    .website_logo {
+        text-align: -webkit-center;
+    }
+}
